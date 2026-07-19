@@ -87,10 +87,3 @@ def extract_vt_data(virustotal_result):
 
         "threat_context": attributes.get("crowdsourced_context", [])
     }
-
-
-# check_type("8.8.8.8")
-# check_type("google.com")
-# check_type("44d88612fea8a8f36de82e1278abb02f")
-# check_type("https://example.com")
-# print(check_type("8.8.8.8"))
