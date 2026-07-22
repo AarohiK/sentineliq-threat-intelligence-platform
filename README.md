@@ -1,8 +1,8 @@
-# SentinelIQ: Threat Intelligence & IOC Risk Analysis Platform
+# Threat Intelligence & IOC Risk Analysis Platform
 
 ## Overview
 
-SentinelIQ is a security-focused threat intelligence platform designed to automate Indicator of Compromise (IOC) investigation workflows.
+Security-focused threat intelligence platform designed to automate Indicator of Compromise (IOC) investigation workflows.
 
 The platform accepts security indicators such as IP addresses, domains, URLs, and file hashes, enriches them using the VirusTotal API, applies a custom risk scoring engine, and returns explainable threat assessments.
 
